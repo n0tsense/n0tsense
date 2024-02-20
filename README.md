@@ -5,7 +5,6 @@ I'm passionate about staying at the forefront of technology, continually develop
 boundary-pushing projects. Let's create something great together!
 <br><br>
 
-# Tech Stack
 ![Javascript](https://img.shields.io/badge/Javascript-ffffff?style=for-the-badge&logo=javascript&color=5e5839)
 ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=fff&color=%235487a8)
 ![CSharp](https://img.shields.io/badge/C%23-ffffff?style=for-the-badge&logo=csharp&color=%23573c8c)
