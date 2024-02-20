@@ -4,11 +4,7 @@ My expertise encompasses elegant solutions across the tech stack, from intricate
 I'm passionate about staying at the forefront of technology, continually developing my skills, and collaborating on <br> 
 boundary-pushing projects. Let's create something great together!
 <br><br>
-Take a visual tour of my coding adventures on my Instagram. Follow for project showcases and more, <br>
-If you are interested in following my Instagram, Click the button below.
-<br><br>
-<a href="https://instagram.com/albert.playerpou"><img src="https://img.shields.io/badge/Instagram-ffffff?style=flat-square&logo=instagram&labelColor=ffffff&color=a83250"></a>
-<img src="https://komarev.com/ghpvc/?username=il4rx&style=flat-square&color=3344f5">
+
 # Tech Stack
 ![Javascript](https://img.shields.io/badge/Javascript-ffffff?style=for-the-badge&logo=javascript&color=5e5839)
 ![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=fff&color=%235487a8)
