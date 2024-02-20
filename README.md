@@ -1,5 +1,5 @@
 # Hello, I'm N0TSENSE
-Hello! I'm **Lithfira** or **il4rx**, an experienced software engineer and full-stack developer with a proven **7-year** track record. <br>
+Hello! I'm **n0tsense**, an experienced software engineer and full-stack developer with a proven **7-year** track record. <br>
 My expertise encompasses elegant solutions across the tech stack, from intricate front-ends to robust back-end architectures. <br>
 I'm passionate about staying at the forefront of technology, continually developing my skills, and collaborating on <br> 
 boundary-pushing projects. Let's create something great together!
